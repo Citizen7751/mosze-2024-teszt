@@ -24,5 +24,7 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+    // szabatoro hozzáadása
+    std::cout << "\n\n\nAlright, but what's the use case???" << std::endl;
     return 0;
 }
